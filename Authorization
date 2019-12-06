@@ -2,16 +2,22 @@ Pckit Box Open use=0<!--Pckit Box-->
 
 test 0
 test 1
-test 7
-test 2
-test 1
-test 0
 
 #Pckit Box
-Internal update channel=0
-Set the decompression script=0[Pckit Auto Compression JS]
-Internal encryption=0[SHA-256]
-Set password=0[AES-256]
+Internal update channel=1,2,3,4,5[Random selection=1 | Connectivity judgment=1]
+Set the decompression script=1[Pckit Auto CompressionJS.JS]
+Internal encryption=1[SHA-256]
+Set password=1[AES-256]
 Auto Upload=1
 Enable UPX=1
 #Pckit Box
+
+#Pckit Sutra Automatic Reader & Pckit Sutra Vocabulary
+Traditional conversion=1
+Speech library=MS ANNA,MS LILI[Allow user to customize=1]
+Automatic pronunciation=1
+Buddha disciple name:[NULL,Allow user to customize=1]
+notice="zh-cn=愿以此功德 庄严佛净土,zh-tw&zh-hk=願以此功德 莊嚴佛淨土,ach=welcome"
+Background music="大日如來光明真言.ogg,心經.ogg，六字真言頌.ogg,六字真言頌（蒙語）.ogg,千手千眼無礙大悲心陀羅尼（大悲咒）.ogg，藥師瑠璃光如來灌頂真言.ogg，師子吼六字真言.ogg,大佛頂如來密因修正了義諸菩薩萬行首楞嚴（楞嚴咒）.ogg[Allow users to add=1]"
+Directory & Search index="wikisource,zdic,buddhismlib,cbeta"
+#Pckit Sutra Automatic Reader & Pckit Sutra Vocabulary
