@@ -18,8 +18,8 @@ Enable UPX=1
 Traditional conversion=1
 Speech library=MS ANNA,MS LILI[Allow user to customize=1]
 Automatic pronunciation=1
-Buddha disciple name:[NULL,Allow user to customize=1]
-notice="zh-cn=愿以此功德 庄严佛净土,zh-tw&zh-hk=願以此功德 莊嚴佛淨土,ach=welcome"
-Background music="大日如來光明真言.ogg,心經.ogg，六字真言頌.ogg,六字真言頌（蒙語）.ogg,千手千眼無礙大悲心陀羅尼（大悲咒）.ogg，藥師瑠璃光如來灌頂真言.ogg，師子吼六字真言.ogg,大佛頂如來密因修正了義諸菩薩萬行首楞嚴（楞嚴咒）.ogg[Allow users to add=1]"
-Directory & Search index="wikisource,zdic,buddhismlib,cbeta"
+Buddha disciple name=NULL[Allow user to customize=1]
+notice="zh-cn=愿以此功德 庄严佛净土,zh-tw&zh-hk=願以此功德 莊嚴佛淨土,ach=Welcome!"
+Background music="大日如來光明真言.ogg,心經.ogg,六字真言頌.ogg,六字真言頌（蒙語）.ogg,千手千眼無礙大悲心陀羅尼（大悲咒）.ogg,藥師瑠璃光如來灌頂真言.ogg,師子吼六字真言.ogg,大佛頂如來密因修正了義諸菩薩萬行首楞嚴（楞嚴咒）.ogg[Allow users to add=1]"
+Directory & Search index="Wikisource,Zdic,Buddhismlib,Cbeta,Youtube"
 #Pckit Sutra Automatic Reader & Pckit Sutra Vocabulary
