@@ -1,0 +1,76 @@
+[AppData]
+shell Merlin auto=0[127.0.0.1,Auto upload=43200]
+sync to Merlin Samba=0
+sync to GitHub=0
+sync to Dropbox=0
+sync to Box=0
+ublaklist(Firefox)=0
+ublaklist(Waterfox)=0
+ublaklist(Chrome)=0
+ublaklist(Brave)=1
+ublaklist(Google sync)=0
+
+# Content Farm
+*://*.kknews.cc/*
+*://*.read01.com/*
+
+# CCP Publicity Machine (Brainwashing against Chinese)
+*://*.sohu.com/*
+*://*.163.com/*
+*://*.sina.com.cn/*
+*://*.china.com.cn/*
+*://*.scol.com.cn/*
+*://*.kf.cn/*
+*://*.beijingreview.com.cn/*
+*://*.qlwb.com.cn/*
+*://*.xinmin.cn/*
+*://*.cnnb.com.cn/*
+*://*.bjnews.com.cn/*
+*://*.xmnn.cn/*
+*://*.cbg.cn/*
+*://*.xjbs.com.cn/*
+*://*.chinadaily.com.cn/*
+*://*.bjd.com.cn/*
+*://*.nbd.com.cn/*
+*://*.ce.cn/*
+*://*.people.com.cn/*
+*://*.xinhuanet.com/*
+*://*.chinanews.com/*
+*://*.qianlong.com/*
+*://*.srxww.com/*
+*://*.xhby.net/*
+*://*.stcn.com/*
+*://*.aqzyzx.com/*
+*://*.ynet.com/*
+*://*.takungpao.com/*
+*://*.xjbs.com.cn/*
+*://*.p5w.net/*
+*://*.syd.com.cn/*
+*://*.ycwb.com/*
+
+# CCP Publicity Machine (Brainwashing against Overseas Chinese)
+*://*.dwnews.com/*
+*://*.mingjingnews.com/*
+*://*.singtao.ca/*
+*://*.51.ca/*
+*://*.singtaousa.com/*
+*://*.stnn.cc/*
+*://*.sina.com/*
+
+# CCP Publicity Machine (Brainwashing against Hong Kongers&Taiwanese)
+*://*.orangenews.hk/*
+*://*.hkcna.hk/*
+*://*.speakout.hk/*
+*://*.hkcd.com/*
+*://*.taihainet.com/*
+*://*.chinatimes.com/*
+*://*.wenweipo.com/*
+*://*.zijing.org/*
+*://*.takungpao.com.hk/*
+*://*.hkgpao.com/*
+*://*.bastillepost.com/*
+*://*.stheadline.com/*
+*://*.chbcnet.com/*
+*://*.sina.com.hk/*
+*://*.sina.com.tw/*
+*://*.udn.com/*
