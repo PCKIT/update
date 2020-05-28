@@ -6,7 +6,7 @@ test 0
 test 1
 
 #Pckit Box
-Internal update channel=1,2,3,4,5[Random selection=1 | Connectivity judgment=1]
+Internal update channel=1,2,3,4,5,6[Random selection=1 | Connectivity judgment=1]
 Set the decompression script=1[Pckit Auto CompressionJS.JS]
 Internal encryption=1[SHA-256]
 Set password=1[AES-256]
@@ -23,3 +23,7 @@ notice="zh-cn=愿以此功德 庄严佛净土,zh-tw&zh-hk=願以此功德 莊嚴
 Background music="大日如來光明真言.ogg,心經.ogg,六字真言頌.ogg,六字真言頌（蒙語）.ogg,千手千眼無礙大悲心陀羅尼（大悲咒）.ogg,藥師瑠璃光如來灌頂真言.ogg,師子吼六字真言.ogg,大佛頂如來密因修正了義諸菩薩萬行首楞嚴（楞嚴咒）.ogg[Allow users to add=1]"
 Directory & Search index="Wikisource,Zdic,Buddhismlib,Cbeta,Youtube"
 #Pckit Sutra Automatic Reader & Pckit Sutra Vocabulary
+
+#Pckit CCP NEWS Block List
+Automatically delete closed website time=2020～2099.**.01[key=**+01,key=13//01]
+#Pckit CCP NEWS Block List
