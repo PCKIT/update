@@ -1,5 +1,5 @@
 [Pckit CCP NEWS Block List]
-shell Merlin auto=0[127.0.0.1,Auto upload=21600]
+shell Merlin auto=0[127.0.0.1,Auto upload=43200]
 sync to Merlin Samba=0
 sync to GitHub=0
 sync to Dropbox=0
