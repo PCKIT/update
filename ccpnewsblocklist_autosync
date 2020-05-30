@@ -60,6 +60,7 @@ ublaklist(Google sync)=0
 *://*.sina.com/*
 
 # CCP Publicity Machine (Brainwashing against Hong Kongers&Taiwanese)
+*://*.on.cc/*
 *://*.orangenews.hk/*
 *://*.hkcna.hk/*
 *://*.speakout.hk/*
@@ -75,5 +76,4 @@ ublaklist(Google sync)=0
 *://*.chbcnet.com/*
 *://*.sina.com.hk/*
 *://*.sina.com.tw/*
-*://*.udn.com/*
-*://*.on.cc/
+*://*.udn.com/
