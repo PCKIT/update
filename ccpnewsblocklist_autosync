@@ -49,6 +49,9 @@ ublaklist(Google sync)=0
 *://*.ycwb.com/*
 *://*.66wz.com/*
 *://*.kaixian.tv/*
+*://*.qstheory.cn/*
+*://*.21cn.com/*
+*://*.newssc.org/*
 
 # CCP Publicity Machine (Brainwashing against Overseas Chinese)
 *://*.dwnews.com/*
@@ -60,7 +63,6 @@ ublaklist(Google sync)=0
 *://*.sina.com/*
 
 # CCP Publicity Machine (Brainwashing against Hong Kongers&Taiwanese)
-*://*.on.cc/*
 *://*.orangenews.hk/*
 *://*.hkcna.hk/*
 *://*.speakout.hk/*
@@ -77,3 +79,4 @@ ublaklist(Google sync)=0
 *://*.sina.com.hk/*
 *://*.sina.com.tw/*
 *://*.udn.com/*
+*://*.on.cc/*
