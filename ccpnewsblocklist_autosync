@@ -1,15 +1,3 @@
-[Pckit CCP NEWS Block List]
-shell Merlin auto=0[127.0.0.1,Auto upload=43200]
-sync to Merlin Samba=0
-sync to GitHub=0
-sync to Dropbox=0
-sync to Box=0
-ublaklist(Firefox)=0
-ublaklist(Waterfox)=0
-ublaklist(Chrome)=0
-ublaklist(Brave)=0
-ublaklist(Google sync)=0
-
 # Content Farm
 *://*.kknews.cc/*
 *://*.read01.com/*
@@ -52,6 +40,8 @@ ublaklist(Google sync)=0
 *://*.qstheory.cn/*
 *://*.21cn.com/*
 *://*.newssc.org/*
+*://*.hbjjrb.com/*
+*://*.wzrb.com.cn/*
 
 # CCP Publicity Machine (Brainwashing against Overseas Chinese)
 *://*.dwnews.com/*
@@ -61,6 +51,9 @@ ublaklist(Google sync)=0
 *://*.singtaousa.com/*
 *://*.stnn.cc/*
 *://*.sina.com/*
+*://*.chinaqw.com/*
+*://*.shangbaoindonesia.com/*
+*://*.iask.ca/*
 
 # CCP Publicity Machine (Brainwashing against Hong Kongers&Taiwanese)
 *://*.orangenews.hk/*
