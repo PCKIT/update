@@ -13,6 +13,7 @@ ublaklist(Google sync)=0
 # Content Farm
 *://*.kknews.cc/*
 *://*.read01.com/*
+*://*.hotbak.net/*
 
 # CCP Publicity Machine (Brainwashing against Chinese)
 *://*.sohu.com/*
@@ -54,6 +55,16 @@ ublaklist(Google sync)=0
 *://*.newssc.org/*
 *://*.hbjjrb.com/*
 *://*.wzrb.com.cn/*
+*://*.workercn.cn/*
+*://*.rednet.cn/*
+*://*.xiancn.com/*
+*://*.cz001.com.cn/*
+*://*.gmw.cn/*
+*://*.hebnews.cn/*
+*://*.nmgnews.com.cn/*
+*://*.eol.cn/*
+*://*.yunnan.cn/*
+*://*.jcrb.com/*
 
 # CCP Publicity Machine (Brainwashing against Overseas Chinese)
 *://*.dwnews.com/*
@@ -65,9 +76,8 @@ ublaklist(Google sync)=0
 *://*.sina.com/*
 *://*.chinaqw.com/*
 *://*.shangbaoindonesia.com/*
-*://*.iask.ca/*
 
-# CCP Publicity Machine (Brainwashing against Hongkongers&Taiwanese)
+# CCP Publicity Machine (Brainwashing against Hong Kongers&Taiwanese)
 *://*.orangenews.hk/*
 *://*.hkcna.hk/*
 *://*.speakout.hk/*
