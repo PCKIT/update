@@ -17,6 +17,7 @@ ublaklist(Google sync)=0
 *://*.hotbak.net/*
 
 # CCP Publicity Machine (Brainwashing against Chinese)
+*://*.gov.cn/*
 *://*.sohu.com/*
 *://*.163.com/*
 *://*.sina.com.cn/*
@@ -79,7 +80,6 @@ ublaklist(Google sync)=0
 *://*.cnmn.com.cn/*
 *://*.sportsonline.com.cn/*
 *://*.dbw.cn/*
-*://*.ln.gov.cn/*
 *://*.huaihai.tv/*
 *://*.tianjinwe.com/*
 *://*.lcxw.cn/*
@@ -91,6 +91,30 @@ ublaklist(Google sync)=0
 *://*.anhuinews.com/*
 *://*.hsw.cn/*
 *://*.caijing.com.cn/*
+*://*.cnstock.com/*
+*://*.nen.com.cn/*
+*://*.youth.cn/*
+*://*.cjn.cn/*
+*://*.dahuawang.com/*
+*://*.xsnet.cn/*
+*://*.bandao.cn/*
+*://*.timedg.com/*
+*://*.cnstock.com/*
+*://*.yicai.com/*
+*://*.jiaodong.net/*
+*://*.huanbohainews.com.cn/*
+*://*.hlbrdaily.com.cn/*
+*://*.sciencenet.cn/*
+*://*.jschina.com.cn/*
+*://*.wxrb.com/*
+*://*.eastmoney.com/*
+*://*.hbnews.net/*
+*://*.jxnews.com.cn/*
+*://*.jjxw.cn/*
+*://*.qdxin.cn/*
+*://*.hangzhou.com.cn/*
+*://*.mnw.cn/*
+# # CCP Publicity Machine (Brainwashing against Chinese) End
 
 # CCP Publicity Machine (Brainwashing against Overseas Chinese)
 *://*.dwnews.com/*
@@ -102,6 +126,7 @@ ublaklist(Google sync)=0
 *://*.sina.com/*
 *://*.chinaqw.com/*
 *://*.shangbaoindonesia.com/*
+# CCP Publicity Machine (Brainwashing against Overseas Chinese) End
 
 # CCP Publicity Machine (Brainwashing against Hongkongers&Taiwanese)
 *://*.orangenews.hk/*
@@ -121,3 +146,4 @@ ublaklist(Google sync)=0
 *://*.sina.com.tw/*
 *://*.udn.com/*
 *://*.on.cc/*
+# CCP Publicity Machine (Brainwashing against Hongkongers&Taiwanese) End
