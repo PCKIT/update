@@ -25,8 +25,10 @@ ublaklist(Google sync)=0
 *://*.aqzyzx.com/*
 *://*.bandao.cn/*
 *://*.beijingreview.com.cn/*
+*://*.beiww.com/*
 *://*.bjd.com.cn/*
 *://*.bjnews.com.cn/*
+*://*.bjx.com.cn/*
 *://*.caijing.com.cn/*
 *://*.cbg.cn/*
 *://*.ce.cn/*
@@ -41,7 +43,9 @@ ublaklist(Google sync)=0
 *://*.cz001.com.cn/*
 *://*.dahuawang.com/*
 *://*.dbw.cn/*
+*://*.dzwww.com/*
 *://*.eastmoney.com/*
+*://*.eeo.com.cn/*
 *://*.eol.cn/*
 *://*.fcgsnews.com/*
 *://*.fjsen.com/*
@@ -95,7 +99,9 @@ ublaklist(Google sync)=0
 *://*.takungpao.com/*
 *://*.tianjinwe.com/*
 *://*.timedg.com/*
+*://*.tznews.cn/*
 *://*.voc.com.cn/*
+*://*.wfnews.com.cn/*
 *://*.workercn.cn/*
 *://*.wxrb.com/*
 *://*.wzrb.com.cn/*
@@ -106,15 +112,18 @@ ublaklist(Google sync)=0
 *://*.xjbs.com.cn/*
 *://*.xmnn.cn/*
 *://*.xsnet.cn/*
+*://*.xtrb.cn/*
 *://*.ycwb.com/*
 *://*.yicai.com/*
 *://*.ynet.com/*
 *://*.youth.cn/*
 *://*.yunnan.cn/*
-# # CCP Publicity Machine (Brainwash the Chinese) End
+*://*.zgxxb.com.cn/*
+# CCP Publicity Machine (Brainwash the Chinese) End
 
 # CCP Publicity Machine (Brainwashing Overseas Chinese)
 *://*.51.ca/*
+*://*.boxun.com/*
 *://*.chinaqw.com/*
 *://*.dwnews.com/*
 *://*.mingjingnews.com/*
