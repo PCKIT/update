@@ -65,7 +65,9 @@ ublaklist(Google sync)=0
 *://*.hljnews.cn/*
 *://*.hsw.cn/*
 *://*.huaihai.tv/*
+*://*.huaue.com/*
 *://*.huanbohainews.com.cn/*
+*://*.infomorning.com/*
 *://*.jcrb.com/*
 *://*.jiaodong.net/*
 *://*.jjxw.cn/*
@@ -87,6 +89,7 @@ ublaklist(Google sync)=0
 *://*.p5w.net/*
 *://*.people.com.cn/*
 *://*.qdxin.cn/*
+*://*.qhnews.com/*
 *://*.qianlong.com/*
 *://*.qlwb.com.cn/*
 *://*.qstheory.cn/*
@@ -101,6 +104,7 @@ ublaklist(Google sync)=0
 *://*.sina.com.cn/*
 *://*.sohu.com/*
 *://*.southcn.com/*
+*://*.solarbe.com/*
 *://*.sportsonline.com.cn/*
 *://*.srxww.com/*
 *://*.stcn.com/*
@@ -131,6 +135,7 @@ ublaklist(Google sync)=0
 *://*.ynet.com/*
 *://*.youth.cn/*
 *://*.yunnan.cn/*
+*://*.yznews.com.cn/*
 *://*.zgxxb.com.cn/*
 # CCP Publicity Machine (Brainwash the Chinese) End
 
@@ -145,12 +150,14 @@ ublaklist(Google sync)=0
 *://*.singtao.ca/*
 *://*.singtaousa.com/*
 *://*.stnn.cc/*
+*://*.zaobao.com.sg/*
 # CCP Publicity Machine (Brainwashing Overseas Chinese) End
 
 # CCP Publicity Machine (Brainwash Hongkongers&Taiwanese) Start
 *://*.bastillepost.com/*
 *://*.chbcnet.com/*
 *://*.chinatimes.com/*
+*://*.crntt.com/*
 *://*.hkcd.com/*
 *://*.hkcna.hk/*
 *://*.hkgpao.com/*
