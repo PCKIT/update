@@ -80,6 +80,7 @@ ublaklist(Google sync)=0
 *://*.lcxw.cn/*
 *://*.ldnews.cn/*
 *://*.legaldaily.com.cn/*
+*://*.lnd.com.cn/*
 *://*.lyd.com.cn/*
 *://*.mnw.cn/*
 *://*.nbd.com.cn/*
@@ -158,9 +159,13 @@ ublaklist(Google sync)=0
 *://*.chbcnet.com/*
 *://*.chinatimes.com/*
 *://*.crntt.com/*
+*://*.gov.hk/*
 *://*.hkcd.com/*
 *://*.hkcna.hk/*
+*://*.hkej.com/*
 *://*.hkgpao.com/*
+*://*.now.com/*
+*://*.mingpao.com/*
 *://*.on.cc/*
 *://*.orangenews.hk/*
 *://*.sina.com.hk/*
@@ -169,6 +174,7 @@ ublaklist(Google sync)=0
 *://*.stheadline.com/*
 *://*.taihainet.com/*
 *://*.takungpao.com.hk/*
+*://*.thinkhk.com/*
 *://*.udn.com/*
 *://*.wenweipo.com/*
 *://*.zijing.org/*
