@@ -1,23 +1,12 @@
-[Pckit CCP NEWS Block List]
-shell Merlin auto=0[127.0.0.1,Auto upload=43200]
-sync to Merlin Samba=0
-sync to GitHub=0
-sync to Dropbox=0
-sync to Box=0
-ublaklist(Firefox)=0
-ublaklist(Waterfox)=0
-ublaklist(Chrome)=0
-ublaklist(Iridium)=0
-ublaklist(GNU IceCat)=0
-ublaklist(Google sync)=0
+[Pckit CCP lackey list] - 19:26 2020.6.30
 
-# Content Farm Start
+# Content farm Start
 *://*.hotbak.net/*
 *://*.kknews.cc/*
 *://*.read01.com/*
-# Content Farm End
+# Content farm End
 
-# CCP Publicity Machine (Brainwash the Chinese) Start
+# CCP lackey(For Mainland China) Start
 *://*.10yan.com/*
 *://*.163.com/*
 *://*.21cn.com/*
@@ -47,6 +36,7 @@ ublaklist(Google sync)=0
 *://*.cz001.com.cn/*
 *://*.dahuawang.com/*
 *://*.dbw.cn/*
+*://*.dgbzy.com/*
 *://*.dzwww.com/*
 *://*.eastmoney.com/*
 *://*.eeo.com.cn/*
@@ -55,7 +45,9 @@ ublaklist(Google sync)=0
 *://*.fjsen.com/*
 *://*.gmw.cn/*
 *://*.gov.cn/*
+*://*.guancha.cn/*
 *://*.gxnews.com.cn/*
+*://*.haijiangzx.com/*
 *://*.hangzhou.com.cn/*
 *://*.hbjjrb.com/*
 *://*.hbnews.net/*
@@ -65,8 +57,10 @@ ublaklist(Google sync)=0
 *://*.hljnews.cn/*
 *://*.hsw.cn/*
 *://*.huaihai.tv/*
-*://*.huaue.com/*
 *://*.huanbohainews.com.cn/*
+*://*.huanqiu.com/*
+*://*.huaue.com/*
+*://*.ifeng.com/*
 *://*.infomorning.com/*
 *://*.jcrb.com/*
 *://*.jiaodong.net/*
@@ -87,12 +81,15 @@ ublaklist(Google sync)=0
 *://*.nen.com.cn/*
 *://*.newssc.org/*
 *://*.nmgnews.com.cn/*
+*://*.nnnews.net/*
 *://*.p5w.net/*
 *://*.people.com.cn/*
+*://*.peopleapp.com/*
 *://*.qdxin.cn/*
 *://*.qhnews.com/*
 *://*.qianlong.com/*
 *://*.qlwb.com.cn/*
+*://*.qq.com/*
 *://*.qstheory.cn/*
 *://*.rednet.cn/*
 *://*.runsky.com/*
@@ -102,10 +99,11 @@ ublaklist(Google sync)=0
 *://*.sdnews.com.cn/*
 *://*.shidi.org/*
 *://*.shm.com.cn/*
+*://*.sina.cn/*
 *://*.sina.com.cn/*
 *://*.sohu.com/*
-*://*.southcn.com/*
 *://*.solarbe.com/*
+*://*.southcn.com/*
 *://*.sportsonline.com.cn/*
 *://*.srxww.com/*
 *://*.stcn.com/*
@@ -113,6 +111,7 @@ ublaklist(Google sync)=0
 *://*.stockstar.com/*
 *://*.sxgov.cn/*
 *://*.syd.com.cn/*
+*://*.takefoto.cn/*
 *://*.takungpao.com/*
 *://*.tianjinwe.com/*
 *://*.timedg.com/*
@@ -138,9 +137,9 @@ ublaklist(Google sync)=0
 *://*.yunnan.cn/*
 *://*.yznews.com.cn/*
 *://*.zgxxb.com.cn/*
-# CCP Publicity Machine (Brainwash the Chinese) End
+# CCP lackey(For Mainland China) End
 
-# CCP Publicity Machine (Brainwashing Overseas Chinese) Start
+# CCP lackey (For overseas Chinese) Start
 *://*.51.ca/*
 *://*.boxun.com/*
 *://*.chinaqw.com/*
@@ -152,9 +151,9 @@ ublaklist(Google sync)=0
 *://*.singtaousa.com/*
 *://*.stnn.cc/*
 *://*.zaobao.com.sg/*
-# CCP Publicity Machine (Brainwashing Overseas Chinese) End
+# CCP lackey (For overseas Chinese) End
 
-# CCP Publicity Machine (Brainwash Hongkongers&Taiwanese) Start
+# CCP lackey Machine (For Hongkongers&Taiwanese) Start
 *://*.bastillepost.com/*
 *://*.chbcnet.com/*
 *://*.chinatimes.com/*
@@ -167,15 +166,17 @@ ublaklist(Google sync)=0
 *://*.now.com/*
 *://*.mingpao.com/*
 *://*.on.cc/*
+*://*.hkleaks.pk/*
 *://*.orangenews.hk/*
 *://*.sina.com.hk/*
 *://*.sina.com.tw/*
 *://*.speakout.hk/*
 *://*.stheadline.com/*
+*://*.snxw.com/*
 *://*.taihainet.com/*
 *://*.takungpao.com.hk/*
 *://*.thinkhk.com/*
 *://*.udn.com/*
 *://*.wenweipo.com/*
 *://*.zijing.org/*
-# CCP Publicity Machine (Brainwash Hongkongers&Taiwanese) End
+# CCP lackey (For Hongkongers&Taiwanese) End
