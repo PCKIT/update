@@ -14,6 +14,7 @@
 *://*.21xc.com/*
 *://*.66wc.com/*
 *://*.66wz.com/*
+*://*.6do.news/*
 *://*.81.cn/*
 *://*.96356.in/*
 *://*.ahwang.cn/*
@@ -55,6 +56,7 @@
 *://*.cnnb.com.cn/*
 *://*.cnr.cn/*
 *://*.cnstock.com/*
+*://*.cntv.cn/*
 *://*.cnwest.com/*
 *://*.comnews.cn/*
 *://*.cqn.com.cn/*
@@ -62,6 +64,7 @@
 *://*.cssn.cn/*
 *://*.cyol.com/*
 *://*.cz001.com.cn/*
+*://*.dahe.cn/*
 *://*.dahuawang.com/*
 *://*.dangjian.cn/*
 *://*.dangjian.com/*
@@ -87,6 +90,7 @@
 *://*.gzstv.com/*
 *://*.haijiangzx.com/*
 *://*.hangzhou.com.cn/*
+*://*.have8.tv/*
 *://*.hbjjrb.com/*
 *://*.hbjzgs.com/*
 *://*.hbnews.net/*
@@ -97,6 +101,7 @@
 *://*.hljnews.cn/*
 *://*.hnass.com.cn/*
 *://*.hongqipress.com/*
+*://*.houxu.app/*
 *://*.hsjycc.com/*
 *://*.hsrb.com.cn/*
 *://*.hsw.cn/*
@@ -122,6 +127,7 @@
 *://*.jrj.com.cn/*
 *://*.jschina.com.cn/*
 *://*.jstzjy.net/*
+*://*.jsw.com.cn/*
 *://*.jxcn.cn/*
 *://*.jxnews.com.cn/*
 *://*.jyb.cn/*
@@ -141,6 +147,7 @@
 *://*.mnw.cn/*
 *://*.mshw.net/*
 *://*.msweekly.com/*
+*://*.myzaker.com/*
 *://*.mzb.com.cn/*
 *://*.nbd.com.cn/*
 *://*.nen.com.cn/*
@@ -212,6 +219,7 @@
 *://*.tuanjiewang.cn/*
 *://*.tznews.cn/*
 *://*.voc.com.cn/*
+*://*.weibo.com/*
 *://*.wenming.cn/*
 *://*.wfnews.com.cn/*
 *://*.whnews.cn/*
@@ -236,6 +244,7 @@
 *://*.xtrb.cn/*
 *://*.xuexi.cn/*
 *://*.xwzc.net/*
+*://*.yangtse.com/*
 *://*.ycwb.com/*
 *://*.yicai.com/*
 *://*.ynet.com/*
@@ -286,18 +295,22 @@
 *://*.chinatimes.com/*
 *://*.crntt.com/*
 *://*.dotdotnews.com/*
+*://*.discuss.com.hk/*
 *://*.gov.hk/*
+*://*.hk01.com/*
 *://*.hkcd.com/*
 *://*.hkcna.hk/*
 *://*.hkej.com/*
 *://*.hkgpao.com/*
 *://*.hkleaks.pk/*
+*://*.hkstv.tv/*
 *://*.kinliu.hk/*
 *://*.litenews.hk/*
 *://*.mingpao.com/*
 *://*.nihaotw.com/*
 *://*.now.com/*
 *://*.on.cc/*
+*://*.oliannet.com/*
 *://*.orangenews.hk/*
 *://*.sina.com.hk/*
 *://*.sina.com.tw/*
@@ -305,6 +318,7 @@
 *://*.speakout.hk/*
 *://*.stheadline.com/*
 *://*.taihainet.com/*
+*://*.taiwan.cn/*
 *://*.takungpao.com.hk/*
 *://*.thinkhk.com/*
 *://*.udn.com/*
@@ -312,3 +326,8 @@
 *://*.wenweipo.com/*
 *://*.zijing.org/*
 # CCP running-dog (For Hongkongers&Taiwanese) End
+
+# CCP foreign running-dog Start
+*://*.kcna.kp/*
+*://*.sputniknews.cn/*
+# CCP foreign running-dog End
