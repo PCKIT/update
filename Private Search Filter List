@@ -1,4 +1,4 @@
-Private Search Filter List - Last updated: 13:21 2021.06.19 (UTC+08:00)
+Private Search Filter List - Last updated: 15:49 2021.06.19 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
@@ -7,16 +7,6 @@ Exapmle: @1*://*.example.com/*
 Exapmle: @*://example.com/*
 Exapmle: @*://*.example.com/*
 Exapmle: @*://*.example.com/0/*
-
-## Wikimedia Foundation
-@*://*.wikibooks.org/*
-@*://*.wikidata.org/*
-@*://*.wikimedia.org/*
-@*://*.wikinews.org/*
-@*://*.wikipedia.org/*
-@*://*.wikiquote.org/*
-@*://*.wikisource.org/*
-@*://*.wiktionary.org/*
 
 ## Google
 @*://*.books.google.com/*
@@ -32,26 +22,67 @@ Exapmle: @*://*.example.com/0/*
 @*://*.dw.com/*
 @*://*.epochtimes.com/*
 @*://*.gnews.org/*
-@*://*.gtv.org/*
 @*://*.ltn.com.tw/*
 @*://*.ntd.tv/*
 @*://*.rfi.fr/*
 @*://*.soundofhope.org/*
 
+## Other
+@*://*.gtv.org/*
+
+## Wikimedia Foundation
+@*://*.wikibooks.org/*
+@*://*.wikidata.org/*
+@*://*.wikimedia.org/*
+@*://*.wikinews.org/*
+@*://*.wikipedia.org/*
+@*://*.wikiquote.org/*
+@*://*.wikisource.org/*
+@*://*.wiktionary.org/*
+
+## Social
+@*://*.facebook.com/*
+@*://*.gab.com/*
+@*://*.instagram.com/*
+@*://*.twitter.com/*
+
 # Title Blacklist / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
 
-title/爱党|爱国|知史爱党|知史爱国|红色经典|红色基因|红色江山|强党|建党|共产党员|中共|中国共产党|求是|党建|党史|新中国史|党领导|中共中央|党组织|党支部/i
-title/愛黨|愛國|知史愛黨|知史愛國|紅色經典|紅色基因|紅色江山|強黨|建黨|共產黨員|中共|中國共產黨|求是|黨建|黨史|新中國史|黨領導|中共中央|黨組織|黨支部/i
+title/爱党|爱国|知史爱党|知史爱国|红色经典|红色基因|红色江山|强党|建党|共产党员|中共|中国共产党|求是|党建|党史|新中国史|党领导|中共中央|党组织|党支部|党委|党员干部/i
+title/愛黨|愛國|知史愛黨|知史愛國|紅色經典|紅色基因|紅色江山|強黨|建黨|共產黨員|中共|中國共產黨|求是|黨建|黨史|新中國史|黨領導|中共中央|黨組織|黨支部|黨委|黨員幹部/i
 
 # Complete Blacklist / Completely block domain names, including subdomains.
 Exapmle: *://*.example.com/*
 
 ## Content Farm
-*://*.17qq.com/*
-*://*.easyatm.com.tw/*
-*://*.hotbak.net/*
-*://*.itsfun.com.tw/*
-*://*.kknews.cc/*
-*://*.newton.com.tw/*
-*://*.read01.com/*
+/17qq.com/
+/easyatm.com.tw/
+/hotbak.net/
+/itsfun.com.tw/
+/kknews.cc/
+/newton.com.tw/
+/read01.com/
+
+## CCP's running dogs & Propaganda machine
+/boxun.com/
+/cctv.com/
+/china\.(org.cn|com.cn)/
+/chinadaily.com.cn/
+/chinanews\.(com|us|hk|fr|com.ru|org.uk|org)/
+/chinatimes.com/
+/cnr.cn/
+/cri.cn/
+/dangjian.cn/
+/dwnews.com/
+/globaltimes.cn/
+/gmw.cn/
+/gov\.(cn|hk)/
+/haiwainet.cn/
+/hellotw.com/
+/huanqiu.com/
+/people\.(cn|com.cn)/
+/peopledaily.com.cn/
+/taiwan.cn/
+/takungpao.com/
+/xinhuanet.com/
