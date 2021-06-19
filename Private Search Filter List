@@ -1,7 +1,8 @@
-Private Search Filter List - Last updated: 16:30 2021.06.19 (UTC+08:00)
+.Private Search Filter List - Last updated: 18:29 2021.06.19 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
+@1*://*.github .com/*
 
 # Unblock List / If a domain name is blocked by other subscription lists, use this rule to unblock it.
 Exapmle: @*://example.com/*
@@ -23,9 +24,11 @@ Exapmle: @*://*.example.com/0/*
 @*://*.epochtimes.com/*
 @*://*.gnews.org/*
 @*://*.ltn.com.tw/*
-@*://*.ntd.tv/*
+@*://*.ntdtv.com/*
 @*://*.rfi.fr/*
+@*://*.setn.com/*
 @*://*.soundofhope.org/*
+@*://*.ydn.com.tw/*
 
 ## Other
 @*://*.gtv.org/*
