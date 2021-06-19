@@ -1,4 +1,4 @@
-Private Search Filter List - Last updated: 15:49 2021.06.19 (UTC+08:00)
+Private Search Filter List - Last updated: 16:09 2021.06.19 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
@@ -73,6 +73,7 @@ Exapmle: *://*.example.com/*
 /chinatimes.com/
 /cnr.cn/
 /cri.cn/
+/ctitv.com.tw/
 /dangjian.cn/
 /dwnews.com/
 /globaltimes.cn/
@@ -81,8 +82,12 @@ Exapmle: *://*.example.com/*
 /haiwainet.cn/
 /hellotw.com/
 /huanqiu.com/
+/ifeng.com/
 /people\.(cn|com.cn)/
 /peopledaily.com.cn/
+/stheadline.com/
 /taiwan.cn/
-/takungpao.com/
+/takungpao\.(com|com.hk)/
+/tkww.hk/
+/wenweipo.com/
 /xinhuanet.com/
