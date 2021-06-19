@@ -2,7 +2,7 @@
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
-@1*://*.github .com/*
+@1*://*.github.com/*
 
 # Unblock List / If a domain name is blocked by other subscription lists, use this rule to unblock it.
 Exapmle: @*://example.com/*
