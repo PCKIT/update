@@ -1,4 +1,4 @@
-Private Search Filter List - Last updated: 16:09 2021.06.19 (UTC+08:00)
+Private Search Filter List - Last updated: 16:30 2021.06.19 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
@@ -49,8 +49,8 @@ Exapmle: @*://*.example.com/0/*
 # Title Blacklist / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
 
-title/爱党|爱国|知史爱党|知史爱国|红色经典|红色基因|红色江山|强党|建党|共产党员|中共|中国共产党|求是|党建|党史|新中国史|党领导|中共中央|党组织|党支部|党委|党员干部/i
-title/愛黨|愛國|知史愛黨|知史愛國|紅色經典|紅色基因|紅色江山|強黨|建黨|共產黨員|中共|中國共產黨|求是|黨建|黨史|新中國史|黨領導|中共中央|黨組織|黨支部|黨委|黨員幹部/i
+title/爱党|党和|党的|红色经典|红色基因|红色江山|强党|建党|共产党员|中共党员|中共|中国共产党|求是|党建|党史|新中国史|党领导|中共中央|党组织|党支部|党委|党员干部|党中央/i
+title/愛黨|黨和|黨的|紅色經典|紅色基因|紅色江山|強黨|建黨|共產黨員|中共黨員|中共|中國共產黨|求是|黨建|黨史|新中國史|黨領導|中共中央|黨組織|黨支部|黨委|黨員幹部|黨中央/i 
 
 # Complete Blacklist / Completely block domain names, including subdomains.
 Exapmle: *://*.example.com/*
