@@ -1,9 +1,9 @@
-Private Search Filter List - Last updated: 07:39 2021.06.21 (UTC+08:00)
+Private Search Filter List - Last updated: 08:30 2021.06.21 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
-@1*://*.github.com/*
-@1*://*.github.io/*
+@1/github\.(com|io)/
+@1/ltn.com.tw/
 
 # Unblock List / If a domain name is blocked by other subscription lists, use this rule to unblock it.
 Exapmle: @*://*.example.com/*
@@ -11,48 +11,48 @@ Exapmle: @*://*.example.com/hoge/*
 Exapmle: @*://example.com/*
 
 ## Google
-@*://*.books.google.com/*
-@*://*.scholar.google.com/*
-@*://*.youtube.com/*
+@/books.google.com/
+@/scholar.google.com/
+@/youtube.com/
 
 ## News
-@*://*.aboluowang.com/*
-@*://*.appledaily.com/*
-@*://*.buzzorange.com/*
-@*://*.chinadigitaltimes.net/*
-@*://*.cna.com.tw/*
-@*://*.dw.com/*
-@*://*.epochtimes.com/*
-@*://*.gnews.org/*
-@*://*.ltn.com.tw/*
-@*://*.ntdtv.com/*
-@*://*.rfi.fr/*
-@*://*.setn.com/*
-@*://*.soundofhope.org/*
-@*://*.thenationalpulse.com/*
-@*://*.ydn.com.tw/*
+@/aboluowang.com/
+@/appledaily.com/
+@/buzzorange.com/
+@/chinadigitaltimes.net/
+@/cna.com.tw/
+@/dw.com/
+@/epochtimes.com/
+@/gnews.org/
+@/ltn.com.tw/
+@/ntdtv.com/
+@/rfi.fr/
+@/setn.com/
+@/soundofhope.org/
+@/thenationalpulse.com/
+@/ydn.com.tw/
 
 ## Other
-@*://*.edu.tw/*
-@*://*.gov.tw/*
-@*://*.gtv.org/*
+@/edu.tw/
+@/gov.tw/
+@/gtv.org/
 
 ## Social
-@*://*.facebook.com/*
-@*://*.gab.com/*
-@*://*.getome.com/*
-@*://*.instagram.com/*
-@*://*.twitter.com/*
+@/facebook.com/
+@/gab.com/
+@/getome.com/
+@/instagram.com/
+@/twitter.com/
 
 ## Wikimedia Foundation
-@*://*.wikibooks.org/*
-@*://*.wikidata.org/*
-@*://*.wikimedia.org/*
-@*://*.wikinews.org/*
-@*://*.wikipedia.org/*
-@*://*.wikiquote.org/*
-@*://*.wikisource.org/*
-@*://*.wiktionary.org/*
+@/wikibooks.org/
+@/wikidata.org/
+@/wikimedia.org/
+@/wikinews.org/
+@/wikipedia.org/
+@/wikiquote.org/
+@/wikisource.org/
+@/wiktionary.org/
 
 # Title Blacklist / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
