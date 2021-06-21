@@ -37,6 +37,13 @@ Exapmle: @*://example.com/*
 @*://*.gov.tw/*
 @*://*.gtv.org/*
 
+## Social
+@*://*.facebook.com/*
+@*://*.gab.com/*
+@*://*.getome.com/*
+@*://*.instagram.com/*
+@*://*.twitter.com/*
+
 ## Wikimedia Foundation
 @*://*.wikibooks.org/*
 @*://*.wikidata.org/*
@@ -47,13 +54,6 @@ Exapmle: @*://example.com/*
 @*://*.wikisource.org/*
 @*://*.wiktionary.org/*
 
-## Social
-@*://*.facebook.com/*
-@*://*.gab.com/*
-@*://*.getome.com/*
-@*://*.instagram.com/*
-@*://*.twitter.com/*
-
 # Title Blacklist / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
 
@@ -62,15 +62,6 @@ title/愛黨|黨的|黨和|黨建|黨領導|黨史|黨委|黨員幹部|黨支部
 
 # Complete Blacklist / Completely block domain names, including subdomains.
 Exapmle: *://*.example.com/*
-
-## Content Farm & Malicious
-/17qq.com/
-/easyatm.com.tw/
-/hotbak.net/
-/itsfun.com.tw/
-/kknews.cc/
-/newton.com.tw/
-/read01.com/
 
 ## CCP's running dogs & Propaganda machine
 /boxun.com/
@@ -103,3 +94,12 @@ Exapmle: *://*.example.com/*
 /xinhuanet.com/
 /xuexi.cn/
 /youth.cn/
+
+## Content Farm & Malicious
+/17qq.com/
+/easyatm.com.tw/
+/hotbak.net/
+/itsfun.com.tw/
+/kknews.cc/
+/newton.com.tw/
+/read01.com/
