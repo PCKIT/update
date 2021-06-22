@@ -1,4 +1,4 @@
-Private Search Filter List - Last updated: 20:06 2021.06.22(UTC+08:00)
+Private Search Filter List - Last updated: 22:51 2021.06.22 (UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
@@ -11,8 +11,7 @@ Exapmle: @*://*.example.com/hoge/*
 Exapmle: @*://example.com/*
 
 ## Google
-@/books.google.com/
-@/scholar.google.com/
+@/(books|scholar).google.com/
 @/youtube.com/
 
 ## News
