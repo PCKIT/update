@@ -1,11 +1,11 @@
-Private Search Filter List - Last updated: 22:51 2021.06.22 (UTC+08:00)
+Private Search Filter List - Last updated: 05:00 2021.06.23 (UTC+08:00)
 
-# Highlighting List / Highlight the domain name in the search results.
+# Highlighting rules / Highlight the specified domain name.
 Exapmle: @1*://*.example.com/*
 @1/github\.(com|io)/
 @1/ltn.com.tw/
 
-# Unblock List / If a domain name is blocked by other subscription lists, use this rule to unblock it.
+# Unblock rules / Cancel domain names blocked by other rules.
 Exapmle: @*://*.example.com/*
 Exapmle: @*://*.example.com/hoge/*
 Exapmle: @*://example.com/*
@@ -53,16 +53,16 @@ Exapmle: @*://example.com/*
 @/wikisource.org/
 @/wiktionary.org/
 
-# Title Blacklist / Block domain names based on the title. "i" means case insensitive.
+# Title blocking rules / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
 
 title/爱党|党的|党和|党建|党领导|党史|党委|党员干部|党支部|党中央|党组织|跟党|共产党员|红色基因|红色江山|红色经典|建党|强党|求是|听党|向党|新中国史|中共|中共党员|中共中央|中国共产党/i
 title/愛黨|黨的|黨和|黨建|黨領導|黨史|黨委|黨員幹部|黨支部|黨中央|黨組織|跟黨|共產黨員|紅色基因|紅色江山|紅色經典|建黨|強黨|求是|聽黨|向黨|新中國史|中共|中共黨員|中共中央|中國共產黨/i 
 
-# Complete Blacklist / Completely block domain names, including subdomains.
+# Blocking rules / Block any domain name or subdomain.
 Exapmle: *://*.example.com/*
 
-## CCP's running dogs & Propaganda machine / Alexa ranks 40,000 globally or less than 6,000 in China (including affiliate domains).
+## CCP's running dogs & Propaganda machine / Include news media (including affiliate domains) with Alexa global rankings <40,000 or China rankings <6,000.
 /12371.cn/
 /cctv.com/
 /ce.cn/
@@ -99,7 +99,7 @@ Exapmle: *://*.example.com/*
 /xuexi.cn/
 /youth.cn/
 
-## Content Farm & Malicious
+## Content farm & Malicious
 /17qq.com/
 /easyatm.com.tw/
 /hotbak.net/
