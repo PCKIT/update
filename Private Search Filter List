@@ -1,4 +1,4 @@
-Private Search Filter List - Last updated: 08:30 2021.06.21 (UTC+08:00)
+Private Search Filter List - Last updated: 20:06 2021.06.22(UTC+08:00)
 
 # Highlighting List / Highlight the domain name in the search results.
 Exapmle: @1*://*.example.com/*
@@ -63,34 +63,39 @@ title/愛黨|黨的|黨和|黨建|黨領導|黨史|黨委|黨員幹部|黨支部
 # Complete Blacklist / Completely block domain names, including subdomains.
 Exapmle: *://*.example.com/*
 
-## CCP's running dogs & Propaganda machine
-/boxun.com/
+## CCP's running dogs & Propaganda machine / Alexa ranks 40,000 globally or less than 6,000 in China (including affiliate domains).
+/12371.cn/
 /cctv.com/
+/ce.cn/
 /cgtn.com/
-/china\.(org.cn|com.cn)/
+/china\.(com|com.cn|org.cn)/
 /chinadaily.com.cn/
-/chinanews\.(com|us|hk|fr|com.ru|org.uk|org)/
+/chinanews\.(com|com.ru|fr|hk|org|org.uk|us)/
 /chinatimes.com/
 /cnr.cn/
 /cri.cn/
 /ctitv.com.tw/
-/cyol.com/
-/dangjian.cn/
+/cyol\.(com|net)/
 /dwnews.com/
 /globaltimes.cn/
 /gmw.cn/
 /gov\.(cn|hk)/
+/guancha\.(cn|com.cn)/
 /haiwainet.cn/
-/hellotw.com/
 /huanqiu.com/
 /ifeng.com/
+/news.cn/
 /people\.(cn|com.cn)/
 /peopledaily.com.cn/
+/qstheory.cn/
+/rednet.cn/
 /stheadline.com/
+/sznews.com/
 /taiwan.cn/
 /takungpao\.(com|com.hk)/
 /tkww.hk/
 /wenweipo.com/
+/workercn.cn/
 /xinhuanet.com/
 /xuexi.cn/
 /youth.cn/
