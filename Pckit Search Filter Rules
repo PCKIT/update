@@ -11,7 +11,7 @@ Exapmle: @*://*.example.com/hoge/*
 Exapmle: @*://example.com/*
 
 ## Google
-@/(books|scholar).google.com/。
+@/(books|scholar).google.com/
 @/youtube.com/
 
 ## News
