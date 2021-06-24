@@ -1,4 +1,4 @@
-Pckit Search Filter Rules - Last Updated: 19:33 2021.06.24 (UTC+08:00)
+Pckit Search Filter Rules - Last Updated: 19:34 2021.06.24 (UTC+08:00)
 
 # Highlighting Rules / Highlight the specified domain name.
 Exapmle: @1*://*.example.com/*
@@ -66,9 +66,7 @@ title/|蔡當局|藏獨|毒*果|港獨|黑暴|禍港|亂港|民進黨當局|台�
 # Blocking Rules / Block any domain name or subdomain.
 Exapmle: *://*.example.com/*
 
-## CCP's Running Dogs & Propaganda Machine / Include news media (including affiliate domains) with Alexa global rankings ≤ 
-
-40,000 or China rankings ≤ 6,000.
+## CCP's Running Dogs & Propaganda Machine / Include news media (including affiliate domains) with Alexa global rankings ≤ 40,000 or China rankings ≤ 6,000.
 /12371.cn/
 /cctv.com/
 /ce.cn/
