@@ -1,4 +1,4 @@
-Pckit Search Filter Rules - Last Updated: 02:41 2021.07.02 (UTC+08:00)
+Pckit Search Filter Rules - Last Updated: 20:46 2021.07.29 (UTC+08:00)
 
 # Highlighting Rules / Highlight the specified domain name.
 Exapmle: @1*://*.example.com/*
@@ -12,52 +12,52 @@ Exapmle: @*://example.com/*
 
 ## Google
 @/(books|scholar).google.com/
-@/\.youtube.com/
+@*://*.youtube.com/*
 
 ## News
-@/\.aboluowang.com/
-@/\.appledaily.com/
-@/\.buzzorange.com/
-@/\.chinadigitaltimes.net/
-@/\.cna.com.tw/
-@/\.dw.com/
-@/\.epochtimes.com/
-@/\.gnews.org/
-@/\.ltn.com.tw/
-@/\.ntdtv.com/
-@/\.rfi.fr/
-@/\.setn.com/
-@/\.soundofhope.org/
-@/\.thenationalpulse.com/
-@/\.thestandnews.com/
-@/\.ydn.com.tw/
+@*://*.aboluowang.com/*
+@*://*.appledaily.com/*
+@*://*.buzzorange.com/*
+@*://*.chinadigitaltimes.net/*
+@*://*.cna.com.tw/*
+@*://*.dw.com/*
+@*://*.epochtimes.com/*
+@*://*.gnews.org/**
+@*://*.ltn.com.tw/*
+@*://*.ntdtv.com/*
+@*://*.rfi.fr/*
+@*://*.setn.com/*
+@*://*.soundofhope.org/**
+@*://*.thenationalpulse.com/*
+@*://*.thestandnews.com/*
+@*://*.ydn.com.tw/*
 
 ## Other
-@/\.amazon.com/
-@/\.apple.com/
-@/\.edu.tw/
-@/\.gov.tw/
-@/\.gtv.org/
-@/\.live.com/
-@/\.msn.com/
-@/\.yahoo.com/
+@*://*.amazon.com/*
+@*://*.apple.com/*
+@*://*.edu.tw/*
+@*://*.gov.tw/*
+@*://*.gtv.org/*
+@*://*.live.com/*
+@*://*.msn.com/*
+@*://*.yahoo.com/*
 
 ## Social
-@/\.facebook.com/
-@/\.gab.com/
-@/\.gettr.com/
-@/\.instagram.com/
-@/\.twitter.com/
+@*://*.facebook.com/*
+@*://*.gab.com/*
+@*://*.gettr.com/*
+@*://*.instagram.com/*
+@*://*.twitter.com/*
 
 ## Wikimedia Foundation
-@/\.wikibooks.org/
-@/\.wikidata.org/
-@/\.wikimedia.org/
-@/\.wikinews.org/
-@/\.wikipedia.org/
-@/\.wikiquote.org/
-@/\.wikisource.org/
-@/\.wiktionary.org/
+@*://*.wikibooks.org/*
+@*://*.wikidata.org/*
+@*://*.wikimedia.org/*
+@*://*.wikinews.org/*
+@*://*.wikipedia.org/*
+@*://*.wikiquote.org/*
+@*://*.wikisource.org/*
+@*://*.wiktionary.org/*
 
 # Title Blocking Rules / Block domain names based on the title. "i" means case insensitive.
 Exapmle: title/example/i
@@ -71,49 +71,49 @@ title/蔡當局|藏獨|毒.*果|港獨|黑暴|禍港|亂港|民進黨當局|台�
 Exapmle: *://*.example.com/*
 
 ## CCP's Running Dogs & Propaganda Machine / CCP's main promotional media (including affiliated domain names).
-/\.12371.cn/
-/\.cctv.com/
-/\.ce.cn/
-/\.cgtn.com/
+*://*.12371.cn/*
+*://*.cctv.com/*
+*://*.ce.cn/*
+*://*.cgtn.com/*
 /\.china\.(com|com.cn|org.cn)/
-/\.chinadaily.com.cn/
+*://*.chinadaily.com.cn/*
 /\.chinanews\.(com|com.ru|fr|hk|org|org.uk|us)/
-/\.chinatimes.com/
-/\.cnr.cn/
-/\.cri.cn/
-/\.ctitv.com.tw/
+*://*.chinatimes.com/*
+*://*.cnr.cn/*
+*://*.cri.cn/*
+*://*.ctitv.com.tw/*
 /\.cyol\.(com|net)/
-/\.dwnews.com/
-/\.globaltimes.cn/
-/\.gmw.cn/
+*://*.dwnews.com/*
+*://*.globaltimes.cn/*
+*://*.gmw.cn/*
 /\.gov\.(cn|hk)/
 /\.guancha\.(cn|com.cn)/
-/\.haiwainet.cn/
-/\.hkcd.com/
-/\.huanqiu.com/
-/\.ifeng.com/
-/\.news.cn/
-/\.on.cc/
+*://*.haiwainet.cn/*
+*://*.hkcd.com/*
+*://*.huanqiu.com/*
+*://*.ifeng.com/*
+*://*.news.cn/*
+*://*.on.cc/*
 /\.people\.(cn|com.cn)/
-/\.peopledaily.com.cn/
-/\.qstheory.cn/
-/\.rednet.cn/
-/\.stheadline.com/
-/\.sznews.com/
-/\.taiwan.cn/
+*://*.peopledaily.com.cn/*
+*://*.qstheory.cn/*
+*://*.rednet.cn/*
+*://*.stheadline.com/*
+*://*.sznews.com/*
+*://*.taiwan.cn/*
 /\.takungpao\.(com|com.hk)/
-/\.tkww.hk/
-/\.wenweipo.com/
-/\.workercn.cn/
-/\.xinhuanet.com/
-/\.xuexi.cn/
-/\.youth.cn/
+*://*.tkww.hk/*
+*://*.wenweipo.com/*
+*://*.workercn.cn/*
+*://*.xinhuanet.com/*
+*://*.xuexi.cn/*
+*://*.youth.cn/*
 
 ## Content Farm & Malicious
-/\.17qq.com/
-/\.easyatm.com.tw/
-/\.hotbak.net/
-/\.itsfun.com.tw/
-/\.kknews.cc/
-/\.newton.com.tw/
-/\.read01.com/
+*://*.17qq.com/*
+*://*.easyatm.com.tw/*
+*://*.hotbak.net/*
+*://*.itsfun.com.tw/*
+*://*.kknews.cc/*
+*://*.newton.com.tw/*
+*://*.read01.com/*
