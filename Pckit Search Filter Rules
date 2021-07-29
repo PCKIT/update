@@ -1,9 +1,10 @@
-Pckit Search Filter Rules - Last Updated: 20:46 2021.07.29 (UTC+08:00)
+Pckit Search Filter Rules - Last Updated: 21:42 2021.07.29 (UTC+08:00)
 
 # Highlighting Rules / Highlight the specified domain name.
 Exapmle: @1*://*.example.com/*
-@1/\.github\.(com|io)/
-@1/\.ltn.com.tw/
+@1*://*.github.com/*
+@1*://*.github.io/*
+@1*://*.ltn.com.tw/*
 
 # Unblock Rules / Cancel domain names blocked by other rules.
 Exapmle: @*://*.example.com/*
@@ -11,7 +12,8 @@ Exapmle: @*://*.example.com/hoge/*
 Exapmle: @*://example.com/*
 
 ## Google
-@/(books|scholar).google.com/
+@*://*.books.google.com/*
+@*://*.scholar.google.com/*
 @*://*.youtube.com/*
 
 ## News
@@ -75,33 +77,46 @@ Exapmle: *://*.example.com/*
 *://*.cctv.com/*
 *://*.ce.cn/*
 *://*.cgtn.com/*
-/\.china\.(com|com.cn|org.cn)/
+*://*.china.com/*
+*://*.china.com.cn/*
+*://*.china.org.cn/*
 *://*.chinadaily.com.cn/*
-/\.chinanews\.(com|com.ru|fr|hk|org|org.uk|us)/
+*://*.chinanews.com/*
+*://*./*chinanews.com.ru/*
+*://*./*chinanews.fr/*
+*://*./*chinanews.hk/*
+*://*./*chinanews.org/*
+*://*./*chinanews.org.uk/*
+*://*./*chinanews.us/*
 *://*.chinatimes.com/*
 *://*.cnr.cn/*
 *://*.cri.cn/*
 *://*.ctitv.com.tw/*
-/\.cyol\.(com|net)/
+*://*.cyol.com/*
+*://*.cyol.net/*
 *://*.dwnews.com/*
 *://*.globaltimes.cn/*
 *://*.gmw.cn/*
-/\.gov\.(cn|hk)/
-/\.guancha\.(cn|com.cn)/
+*://*.gov.cn/*
+*://*.gov.hk/*
+*://*.guancha.cn/*
+*://*.guancha.com.cn/*
 *://*.haiwainet.cn/*
 *://*.hkcd.com/*
 *://*.huanqiu.com/*
 *://*.ifeng.com/*
 *://*.news.cn/*
 *://*.on.cc/*
-/\.people\.(cn|com.cn)/
+*://*.people.cn/*
+*://*.people.com.cn/*
 *://*.peopledaily.com.cn/*
 *://*.qstheory.cn/*
 *://*.rednet.cn/*
 *://*.stheadline.com/*
 *://*.sznews.com/*
 *://*.taiwan.cn/*
-/\.takungpao\.(com|com.hk)/
+*://*.takungpao.com/*
+*://*.takungpao.com.hk/*
 *://*.tkww.hk/*
 *://*.wenweipo.com/*
 *://*.workercn.cn/*
