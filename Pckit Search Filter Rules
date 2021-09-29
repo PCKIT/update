@@ -3,6 +3,7 @@ Pckit Search Filter Rules - Last Updated: 2021.09.29 13:21 (UTC+08:00)
 # Highlighting Rules - Highlight the specified domain name.
 
 Exapmle: @1*://*.example.com/*
+
 @1*://*.github.com/*
 @1*://*.github.io/*
 @1*://*.ltn.com.tw/*
