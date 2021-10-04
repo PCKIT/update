@@ -1,6 +1,8 @@
 Pckit Search Filter Rules - Last Updated: 2021.09.29 13:21 (UTC+08:00)
 
-# Highlighting Rules - Highlight the specified domain name.
+# Highlighting Rules
+
+Highlight the specified domain name.
 
 Exapmle: @1*://*.example.com/*
 
@@ -8,7 +10,9 @@ Exapmle: @1*://*.example.com/*
 @1*://*.github.io/*
 @1*://*.ltn.com.tw/*
 
-# Unblock Rules - Cancel domain names blocked by other rules.
+# Unblock Rules
+
+Cancel domain names blocked by other rules.
 
 Exapmle: @*://*.example.com/*
 Exapmle: @*://*.example.com/hoge/*
@@ -68,7 +72,9 @@ Exapmle: @*://example.com/*
 @*://*.wikisource.org/*
 @*://*.wiktionary.org/*
 
-# Title Blocking Rules - Block domain names based on the title. "i" means case insensitive.
+# Title Blocking Rules
+
+Block domain names based on the title. "i" means case insensitive.
 
 Exapmle: title/example/i
 
@@ -77,11 +83,15 @@ title/愛黨|愛社會主義|村委|黨的|黨恩|黨和|黨魂|黨建|黨領導
 title/蔡当局|藏独|毒.*果|港独|黑暴|祸港|乱港|民进党当局|台独|台.*当局|星岛/i
 title/蔡當局|藏獨|毒.*果|港獨|黑暴|禍港|亂港|民進黨當局|台獨|台.*當局|星島/i
 
-# Blocking Rules - Block any domain name or subdomain.
+# Blocking Rules
+
+Block any domain name or subdomain.
 
 Exapmle: *://*.example.com/*
 
-## CCP's Running Dogs & Propaganda Machine - CCP's main promotional media (including affiliated domain names).
+## CCP's Running Dogs & Propaganda Machine
+
+CCP's main promotional media (including affiliated domain names).
 
 *://*.12371.cn/*
 *://*.cctv.com/*
@@ -147,4 +157,3 @@ Exapmle: *://*.example.com/*
 *://*.kknews.cc/*
 *://*.newton.com.tw/*
 *://*.read01.com/*
-*://*.wantubizhi.com/*
