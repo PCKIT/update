@@ -27,7 +27,7 @@ Exapmle: @*://example.com/*
 ## News
 @*://*.aboluowang.com/*
 @*://*.appledaily.com/*
-@*://*.bbc.com
+@*://*.bbc.com/*
 @*://*.buzzorange.com/*
 @*://*.chinadigitaltimes.net/*
 @*://*.cna.com.tw/*
@@ -36,7 +36,7 @@ Exapmle: @*://example.com/*
 @*://*.gnews.org/*
 @*://*.ltn.com.tw/*
 @*://*.ntdtv.com/*
-@*://*.rfa.org
+@*://*.rfa.org/*
 @*://*.rfi.fr/*
 @*://*.setn.com/*
 @*://*.soundofhope.org/*
