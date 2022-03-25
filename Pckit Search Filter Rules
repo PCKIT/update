@@ -1,4 +1,4 @@
-Pckit Search Filter Rules - Last Updated: 2022.01.13 01:28
+Pckit Search Filter Rules - Last Updated: 2022.03.26 01:15
 
 # Highlighting Rules
 
@@ -96,53 +96,65 @@ Exapmle: *://*.example.com/*
 
 CCP's main promotional media (including affiliated domain names).
 
+*://*.81.cn/*
 *://*.12371.cn/*
+*://*.bjnews.com.cn/*
+*://*.cankaoxiaoxi.com/*
 *://*.cctv.com/*
 *://*.ce.cn/*
 *://*.cgtn.com/*
-*://*.china.com/*
 *://*.china.com.cn/*
+*://*.china.com/*
 *://*.china.org.cn/*
 *://*.chinadaily.com.cn/*
+*://*.chinanews.com.cn/*
 *://*.chinanews.com/*
-*://*.chinanews.com.ru/*
-*://*.chinanews.fr/*
 *://*.chinanews.hk/*
 *://*.chinanews.org/*
-*://*.chinanews.org.uk/*
-*://*.chinanews.us/*
+*://*.chinaqw.com/*
 *://*.chinatimes.com/*
 *://*.cnr.cn/*
+*://*.cqnews.net/*
 *://*.cri.cn/*
 *://*.ctitv.com.tw/*
 *://*.cyol.com/*
 *://*.cyol.net/*
+*://*.dbw.cn/*
 *://*.dwnews.com/*
+*://*.ecns.cn/*
 *://*.globaltimes.cn/*
 *://*.gmw.cn/*
 *://*.gov.cn/*
 *://*.gov.hk/*
 *://*.guancha.cn/*
-*://*.guancha.com.cn/*
 *://*.haiwainet.cn/*
+*://*.hebei.com.cn/*
 *://*.hkcd.com/*
 *://*.huanqiu.com/*
+*://*.huaxia.com/*
 *://*.ifeng.com/*
+*://*.legaldaily.com.cn/*
 *://*.news.cn/*
 *://*.on.cc/*
 *://*.people.cn/*
 *://*.people.com.cn/*
 *://*.peopledaily.com.cn/*
+*://*.qianlong.com/*
 *://*.qstheory.cn/*
 *://*.rednet.cn/*
+*://*.rmzxb.com.cn/*
+*://*.southcn.com/*
 *://*.stheadline.com/*
 *://*.sznews.com/*
+*://*.taihainet.com/*
 *://*.taiwan.cn/*
-*://*.takungpao.com/*
 *://*.takungpao.com.hk/*
+*://*.takungpao.com/*
+*://*.tibet.cn/*
 *://*.tkww.hk/*
 *://*.wenweipo.com/*
 *://*.workercn.cn/*
+*://*.xhby.net/*
 *://*.xinhuanet.com/*
 *://*.xuexi.cn/*
 *://*.youth.cn/*
