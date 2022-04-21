@@ -1,4 +1,4 @@
-Update Time: 2022.04.12 23:48
+Update Time: 2022.04.21 13:54
 
 # Highlighting Rules
 
@@ -130,6 +130,7 @@ CCP's main promotional media (including affiliated domain names).
 *://*.guancha.cn/*
 *://*.haiwainet.cn/*
 *://*.hebei.com.cn/*
+*://*.hk01.com/*
 *://*.hkcd.com/*
 *://*.huanqiu.com/*
 *://*.huaxia.com/*
@@ -162,11 +163,14 @@ CCP's main promotional media (including affiliated domain names).
 
 ## Disgusting Leftist
 
+*://*.abc.net.au/*
 *://*.cbs.com/*
 *://*.cnn.com/*
 *://*.nbc.com/*
+*://*.nownews.com/*
 *://*.nytimes.com/*
 *://*.washingtonpost.com/*
+*://*.wsj.com/*
 
 ## Content Farm & Malicious
 
