@@ -1,4 +1,4 @@
-Update Time: 2022.04.21 13:54
+Update Time: 2022.05.06 00:15
 
 # Highlighting Rules
 
@@ -54,6 +54,7 @@ Exapmle: @*://example.com/*
 @*://*.live.com/*
 @*://*.microsoft.com/*
 @*://*.msn.com/*
+@*://*.patreon.com/*
 @*://*.yahoo.com/*
 
 ## Social
@@ -154,6 +155,7 @@ CCP's main promotional media (including affiliated domain names).
 *://*.takungpao.com/*
 *://*.tibet.cn/*
 *://*.tkww.hk/*
+*://*.udn.com/*
 *://*.wenweipo.com/*
 *://*.workercn.cn/*
 *://*.xhby.net/*
